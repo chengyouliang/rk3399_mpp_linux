@@ -29,3 +29,5 @@ root:./mpp_linux_demo
 on your device screen,you will see that local avc file
 is displayed.  
 
+基于rk3399 mpp_linux_cpp修改，在buildroo
+环境下编译
